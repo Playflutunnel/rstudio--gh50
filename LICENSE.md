@@ -1,4 +1,4 @@
-# 
+# Get the ultimate RStudio for PC | RStudio for Windows plugin with vip Plugin for RStudio for PC | RStudio for Windows - code-execution and version-control. Featuring
 
 
 
